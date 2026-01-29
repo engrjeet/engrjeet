@@ -2,7 +2,7 @@
    
 </p>
 
-<h1 align="center">👋 Hi, I'm Engr Jeet</h1>
+<h1 align="center">👋 Hi, I'm Jeet</h1>
 <p align="center">
   <em>Ethical Hacker | Cyber Security Expert | Tech Enthusiast</em>
 </p>
